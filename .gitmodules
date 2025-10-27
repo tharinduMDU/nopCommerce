@@ -1,0 +1,3 @@
+[submodule "src/Plugins/iOM.Plugin.Misc.ProductBlockedByCountry"]
+	path = src/Plugins/iOM.Plugin.Misc.ProductBlockedByCountry
+	url = https://github.com/tharinduMDU/iOM.Plugin.Misc.ProductBlockedByCountry.git
